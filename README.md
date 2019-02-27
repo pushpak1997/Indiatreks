@@ -1,0 +1,2 @@
+# Indiatreks
+Website serves as a wiki for all the camps in different regions of India and also serves comparative data for budget-trips. Developed using MEAN stack. • Authentication middleware is implemented using Passport npm package.To add a new campground a user must login. Only a user who created the camp can edit and delete the camp.Commenting option is also available on each camp. • Mongoose package is used for CRUD operations in MongoDb.
